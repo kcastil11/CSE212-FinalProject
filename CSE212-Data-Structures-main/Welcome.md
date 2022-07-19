@@ -16,6 +16,6 @@ Each module will contain real-life examples and descriptions on the data structu
 
 If there is any question you are more than welcome to contact me.
 
-Kenny Castillo, BYU-Idaho, CSE 212, Section 
+Kenny Castillo, BYU-Idaho, CSE 212, Section 3
 
 kcastil@byui.edu
