@@ -2,7 +2,7 @@
 
 <br>
 
-Welcome to the python data structures tutoial. These data structures are critical for programmers to learn. The better you get with using them, the better developer you will be. The data structures are:
+Welcome to the python data structures tutorial. These data structures are critical for programmers to learn. The better you get with using them, the better developer you will be. The data structures are:
 
 - [Queue](Queue.md)
 - [Sets](Sets.md)

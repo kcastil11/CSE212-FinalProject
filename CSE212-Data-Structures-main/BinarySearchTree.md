@@ -321,6 +321,6 @@ print("Sum of tree is: " + str(tree.get_sum())) # Output: 21
 print("Sum of tree2 is: " + str(tree2.get_sum())) # Output: 108
 print("Sum of tree3 is: " + str(tree3.get_sum())) # Output: 183
 ```
-You can check your code with the solution here: [Solution](SourceCodes/BST_solution.py)
+You can check your code with the solution here: [Solution](Solution_Code/BST_solution.py)
 
 [Back to Welcome Page](Welcome.md)
